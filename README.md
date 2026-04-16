@@ -3,8 +3,9 @@
 A foundational 2D platformer project built in Unity, designed to master core game engine mechanics, physics, and C# scripting. 
 
 ## 🎯 Project Overview
-This project was developed by following a comprehensive 30-part tutorial framework. The goal was to understand the underlying architecture of 2D game mechanics rather than just using pre-built assets, focusing on how rigidbodies, colliders, and input systems interact in real-time.
-
+I need to credit to the 30 tutorial playlist to the legend itself by Game Code Library who made it possible! she is the one i can make this and jst follow the tutorial ahaha 
+https://www.youtube.com/playlist?list=PLaaFfzxy_80EWnrTHyUkkIy6mJrhwGYN0
+thats the whole playlist of all codes and animation i have made with the tutorial its free!
 ## 🛠️ Tech Stack & Skills
 * **Engine:** Unity 2D
 * **Language:** C#
@@ -12,7 +13,7 @@ This project was developed by following a comprehensive 30-part tutorial framewo
   * **Physics & Collision:** Custom player controller utilizing Unity's 2D Rigidbody and BoxColliders for precise movement and jumping.
   * **Input Handling:** Managing user inputs for seamless character control.
   * **Animation States:** Linking C# scripts to Unity's Animator to trigger movement and action states dynamically.
-  * **Level Design:** Utilizing Tilemaps for efficient level construction.
+  * **Level Design:** Utilizing Tilemaps for efficient level construction. amazing for testing!
 
 ## 💡 Learning Outcomes
-This project served as a deep dive into Unity's component-based architecture. It solidified my understanding of the Game Loop (Update vs. FixedUpdate), object-oriented programming in C#, and debugging physics-based interactions in a 2D space.
+my first ever big project of doing it alone and i cant comprehend its kind exausting but thanks to the youtube tutorial 30 plus tutorial i can do it i just follow the outcome and somehow it works it might not be perfect but im willing to learn more! and yes thanks for revieweing!
